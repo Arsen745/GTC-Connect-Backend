@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Arsen</h1>
+<h1>Добро Пожаловать на GTC-Connect</h1>
 </body>
 </html>
